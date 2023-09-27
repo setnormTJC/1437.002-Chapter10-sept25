@@ -1,0 +1,1 @@
+/*static */ int someInt = 5;
